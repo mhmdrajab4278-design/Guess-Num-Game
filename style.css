@@ -41,6 +41,7 @@ body {
     border-radius: 10px;
     background: transparent;
     padding: 0 5px;
+    margin-bottmom: 10px;
     border: 2px rgb(255, 71, 71) solid;
     box-shadow: 0px 0 2px plum;
     transition: 0.5s;
